@@ -58,9 +58,6 @@ Here's a glimpse of the technologies I work with:
 
 ---
 
-### ✍️ Random Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 
 ### 🔝 Top Contributed Repositories:
